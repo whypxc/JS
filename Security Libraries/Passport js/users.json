@@ -1,0 +1,42 @@
+[
+  {
+    "email": "a",
+    "password": "$2b$10$FBdBFy.5F0JCJ277PW0z3uC9A/l9eMyHCghm1xQyrY69Kh3hfrkWC",
+    "id": "f8ec8eed-25c7-47cb-a82b-87d4cc29346f"
+  },
+  {
+    "email": "b",
+    "password": "$2b$10$zbLDkPOgknbzz1pEJjsf7up9rBrz6xxzAabynlsv2cM9ecl8zheUe",
+    "id": "22c13268-78f2-455e-a3a8-240a3b95c317"
+  },
+  {
+    "email": "c",
+    "password": "$2b$10$lJ0nkvjgfvbghjshqFWjmuBCZEoW34CsMjEpfz0oPm7b0lLZYHFMi",
+    "id": "8dbfb05a-4a6a-4a1a-9b9a-dfc1103ea9a7"
+  },
+  {
+    "email": "d",
+    "password": "$2b$10$KI8Aqjj.NZebDoshyDnaluDh36bG6.sAiLIaEUsFdkrenfkJR8Cx6",
+    "id": "52aef0ce-4450-46cf-9869-c9b7cc26f57c"
+  },
+  {
+    "email": "e",
+    "password": "$2b$10$stOyFjl8kpYEe1CLfRsNkObMU4VWLYvdbsPV92xzwZYJxPyNhxnL6",
+    "id": "af259c73-ec3f-4be6-b389-27509485ebc7"
+  },
+  {
+    "email": "f",
+    "password": "$2b$10$Lk9RG6tZrjn8FfZu6yxsX..k/UtyyPFr3XuUm7g7FLpzs.2wdvztO",
+    "id": "f3dbc46e-2fb0-4152-a272-404535d016cf"
+  },
+  {
+    "email": "tokenerror",
+    "password": "$2b$10$Kwzm9MFamuxWG7AUQlf3juZ1DqwdPge.fXg8lWGbo0UqJrSBd9st.",
+    "id": "941ea12d-8a9d-4141-b282-14fe7ccb0a43"
+  },
+  {
+    "email": "emptytoken",
+    "password": "$2b$10$IsWgvPAX/JJ5u8.TpSAOcuF1ntKqO4cxy14h4o/xYMXwanBjwquL.",
+    "id": "045824fe-2df9-46b8-8c06-8409cccf6cdc"
+  }
+]
